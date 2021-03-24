@@ -1,3 +1,13 @@
+# Project Description:
+ 
+Netflix FrontEnd clone built using React and hosted in Google Firebase. It fetches the data from TMDB (The Movie Database) API. It also
+displays the movie trailers which is fetched from YouTube. Leverages React hooks, API fetching, rendering, interactive lists, trailer pop-ups
+along with integrated with google analytics
+
+# URL [https://netflix-clone-328ae.web.app/](https://netflix-clone-328ae.web.app/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
